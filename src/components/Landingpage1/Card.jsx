@@ -14,7 +14,7 @@ function Card() {
           </div>
           <h4 className="fo">Full Stories</h4>
           <p className="card-font mb-0">
-            Interseting and complex, with a good devlopment and ending.
+            Interseting and complex, with a good development and ending.
           </p>
         </div>
       </div>

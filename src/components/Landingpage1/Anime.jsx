@@ -20,7 +20,7 @@ function Anime() {
 
             <div className="image">
               <img src={check} alt="check-icon" />
-              <span>Powered by GPT-3 from open AI </span>
+              <span>Powered by GPT-4 from open AI </span>
             </div>
             <div className="image">
               <img src={check} alt="check-icon" />
