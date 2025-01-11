@@ -20,10 +20,10 @@ function Carder() {
             A 2 week copy project finished in 2 days with jasper
           </h6>
           <p className="font-small pb-0">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam,
-            explicabo nisi distinctio deserunt, voluptates facilis amet incidunt
-            cupiditate voluptatum debitis soluta quisquam unde suscipit
-            asperiores sed rerum alias magni quibusdam.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo,
+            perspiciatis magni excepturi dolores, accusamus iste hic molestiae
+            officiis animi id aliquid temporibus nulla sequi labore fugiat culpa
+            veritatis atque quos.
           </p>
         </div>
       </section>
