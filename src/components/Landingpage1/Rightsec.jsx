@@ -8,8 +8,8 @@ function Rightsec() {
           <h1>Try it for free now!</h1>
           <p className="right-paragraph">
             Test the quality of our program and let yourself be convinced by the
-            effectiveness of our AI, start right now to generate quality
-            content!
+            effectiveness of our Artificial inteligence, start right now to
+            generate quality content!
           </p>
           <div className="btns">
             <button className="email-btn">SIGN UP WITH EMAIL</button>

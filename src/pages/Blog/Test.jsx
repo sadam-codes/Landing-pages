@@ -9,10 +9,10 @@ function Test() {
             <h1 style={{ fontWeight: "bold" }}>Blog</h1>
 
             <p className="mb-0">
-              Odio et unde deleniti. Deserunt numquam exercitationem. Officiis
-              quo odio sint voluptas consequatur ut a odio voluptatem. Sit
-              dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit
-              quaerat ipsum dolorem.
+              Error et alias adipisci. Voluptate saepe assumenda. Reprehenderit
+              eos quae error suscipit repudiandae sed est iure corporis.
+              Quisquam autem voluptatem dolores sapiente dicta. Nisi culpa quia.
+              Quibusdam atque animi magnam rerum.
             </p>
           </div>
         </div>
