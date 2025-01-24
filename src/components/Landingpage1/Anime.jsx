@@ -9,7 +9,7 @@ function Anime() {
    <Container>
        <Row>
           <div className="floating-image col-lg-6 col-12">
-            <img src={animate} alt="Anime" />
+            <img src={animate} alt="Anime" loading="lazy"/>
           </div>
           <div className="data col-lg-6 col-12">
             <h1>Anime text in ablink Automatic and Immediate</h1>
@@ -19,15 +19,15 @@ function Anime() {
             </p>
 
             <div className="image">
-              <img src={check} alt="check-icon" />
+              <img src={check} alt="check-icon" loading="lazy"/>
               <span>Powered by GPT-4 from open AI </span>
             </div>
             <div className="image">
-              <img src={check} alt="check-icon" />
+              <img src={check} alt="check-icon" loading="lazy"/>
               <span> Different genres and tones </span>
             </div>
             <div className="image">
-              <img src={check} alt="check-icon" />
+              <img src={check} alt="check-icon" loading="lazy"/>
               <span>To publish on networks or use them in your compaigns </span>
             </div>
             <div className="readmore">
