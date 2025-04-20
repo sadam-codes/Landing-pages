@@ -43,7 +43,7 @@ function Besttool() {
       </div>
       <div className="more">
         <center>
-          <b> And many more </b>
+          <b> And many more ... </b>
         </center>
       </div>
     </section>

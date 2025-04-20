@@ -10,8 +10,8 @@ function Animetext() {
             <div className="tech col-lg-6 col-12">
               <h1>Anime text in ablink Automatic and Immediate</h1>
               <p className="tech-paragraph">
-                The technology of our AI assure a great writing, without
-                waiting, about creative block, instant content only
+                The technology of our AI assures a great writing, without
+                waiting, about creative block, instant content only.
               </p>
             </div>
             <div className="tech-image col-lg-6 col-12">

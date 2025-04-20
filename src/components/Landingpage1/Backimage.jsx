@@ -12,7 +12,7 @@ function Backimage({ isLandingPage }) {
         <div className="container">
           <div className="carosol-section">
             <div className="lorem">
-              <h1>What they say about us</h1>
+              <h1>What they say about us ? </h1>
             </div>
             <Uppercontent />
           </div>

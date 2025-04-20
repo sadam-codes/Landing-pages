@@ -35,9 +35,9 @@ function DynamicAccordian({ tableData }) {
                           position: "absolute",
                           background: "white",
                           width: "48.9%",
-                          border:'1px solid white',
-                          borderRadius:'10px',
-                    
+                          border: '1px solid white',
+                          borderRadius: '10px',
+
                         }}
                       >
                         <Accordion>
@@ -114,9 +114,9 @@ function DynamicAccordian({ tableData }) {
           <Client />
         </div>
         <Footer />
-        
+
       </div>
-      
+
     </>
   );
 }
